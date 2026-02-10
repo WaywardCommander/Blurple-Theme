@@ -1,2 +1,2 @@
 # Blurple-Theme
-A YNAB5 style theme
+A theme styled after YNAB's dark mode.
