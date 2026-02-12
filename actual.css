@@ -159,7 +159,7 @@
     	--color-noticeText: #FFFFFF;
     	--color-noticeTextDark: #FFFFFF;
     	--color-noticeTextLight: #FFFFFF;
-    	--color-noticeTextMenu: #FFFFFF;
+    	--color-noticeTextMenu: #27AB83;
     	--color-noticeTextMenuHover: #FFFFFF;
 
     /* Overlay */
@@ -181,7 +181,7 @@
     	--color-pageTextLink: #ffffff;
     	--color-pageTextLinkLight: #ffffff;
     	--color-pageTextPositive: #27AB83;
-    	--color-pageTextSubdued: #DBD7CC;
+    	--color-pageTextSubdued: #FFFFFF;
 
     /* Pill */
     	--color-pillBackground: #34374B;
